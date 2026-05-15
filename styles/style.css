@@ -152,7 +152,7 @@
   margin-bottom: var(--section-gap);
   display: flex;
   flex-direction: column;
-  gap: 22px;
+  gap: 20px;
   padding: var(--content-padding);
 }
 
@@ -166,7 +166,7 @@
 .cards-grid {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
 }
 
 .card {
@@ -281,7 +281,7 @@
     margin-right: 20px;
     margin-left: 0;
     padding-left: 0;
-    margin-bottom: 183px;
+    margin-bottom: 181px;
   }
 
   .decorated-zone::before {
