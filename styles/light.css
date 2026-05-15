@@ -32,7 +32,7 @@
     --accent-color: #ff8dcb;
     --title-color: #FFC2E6;
     --card-bg: #f9f9f9;
-    --title-decor-text: #353430;;
+    --title-decor-text: #353430;
     --bg-image: url('../images/cover-image-light.png');
     --link-shadow: 2px 2px 0 var(--accent-color);
     --accent-color-transparent: rgba(255, 141, 203, 0.4);
