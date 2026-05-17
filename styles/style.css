@@ -445,6 +445,10 @@
     gap: 20px;
   }
 
+   .gallery {
+    grid-template-rows: auto 260px 315px 433px;
+  }
+
   .footer {
     min-height: 768px;
   }
