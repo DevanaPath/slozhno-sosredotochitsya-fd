@@ -186,7 +186,7 @@
 .card__text {
   font-size: 18px;
   line-height: 1.3;
-  margin-bottom: 15px;
+  margin-bottom: 14px;
   margin-top: 10px;
 }
 
@@ -343,7 +343,7 @@
 
   .gallery {
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto 260px 315px 433px;
+    grid-template-rows: auto 192px 230px 318px;
     gap: 20px;
     margin-left: 12px;
     margin-right: 10px;
