@@ -19,10 +19,8 @@
   --link-shadow: 2px 2px 0 var(--accent-color);
   --accent-color-transparent: rgba(255, 141, 203, 0.4);
   --overlay-color: rgba(255, 241, 247, 0.4);
-}
-
-:root.theme-light .section__title {
-  color: var(--text-color);
+  --section-title-color: #353430;
+  --rec-display: none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -37,9 +35,8 @@
     --link-shadow: 2px 2px 0 var(--accent-color);
     --accent-color-transparent: rgba(255, 141, 203, 0.4);
     --overlay-color: rgba(255, 241, 247, 0.4);
+    --section-title-color: #353430;
+    --rec-display: none;
   }
 }
 
-:root.theme-light .rec {
-  display: none;
-}

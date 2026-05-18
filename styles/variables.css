@@ -3,7 +3,7 @@
   и их переопределение под различные устройства
 */
 :root {
-  --accent-color: #ff0070;
+  --accent-color: #FF0070;
   --font-family: 'IBM Plex mono', monospace;
   --bg-color: #1e1e1e;
   --text-color: #F1B2CE;
@@ -15,4 +15,6 @@
   --content-padding: 10px;
   --section-gap: 30px;
   --accent-color-transparent: rgba(255, 0, 112, 0.4);
+  --section-title-color: #ff0070; 
+  --rec-display: flex;
 }
