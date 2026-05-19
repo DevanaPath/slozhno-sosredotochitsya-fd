@@ -52,7 +52,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border: 1px solid var(--accent-color-transparent);
+  border: 1px solid var(--section-title-color);
 }
 
 .header__theme-menu-button:focus {
