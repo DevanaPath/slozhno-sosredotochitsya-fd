@@ -7,12 +7,12 @@
 
 :root.theme-dark {
   --bg-image: url('../images/cover-image-dark.png');
-  --bg-color: #1e1e1e;
+  --bg-color: #000028;
   --text-color:#F1B2CE;
   --title-color: #DB00FF;
   --accent-color: #ff0070;
   --card-bg: #2a2a2a;
-  --title-decor-text: #000028;
+  --title-decor-text: #000;
   --link-shadow: 2px 2px 0 var(--accent-color);
   --accent-color-transparent: rgba(255, 0, 112, 0.4);
   --section-title-color: #ff0070;

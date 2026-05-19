@@ -9,12 +9,12 @@
   --text-color: #F1B2CE;
   --title-color: #DB00FF;
   --card-bg: #2a2a2a;
-  --title-decor-text: #000028;
+  --title-decor-text: #353430;
   --link-shadow: 2px 2px 0 var(--accent-color);
   --bg-image: url('../images/background-dark.jpg');
   --content-padding: 10px;
   --section-gap: 30px;
   --accent-color-transparent: rgba(255, 0, 112, 0.4);
-  --section-title-color:#ff0070;
+  --section-title-color: #ff0070;
   --rec-display: flex;
 }
