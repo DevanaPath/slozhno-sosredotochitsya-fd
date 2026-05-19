@@ -17,9 +17,9 @@
   --title-decor-text: #353430;
   --bg-image: url('../images/cover-image-light.png');
   --link-shadow: 2px 2px 0 var(--accent-color);
-  --accent-color-transparent: rgba(255, 141, 203, 0.4);
+  --accent-color-transparent: rgba(50, 49, 45, 0.4);
   --overlay-color: rgba(255, 241, 247, 0.4);
-  --section-title-color: rgba(53, 52, 48, 0.4);
+  --section-title-color: #353430;
 ;
   --rec-display: none;
 }
@@ -34,9 +34,9 @@
     --title-decor-text: #353430;
     --bg-image: url('../images/cover-image-light.png');
     --link-shadow: 2px 2px 0 var(--accent-color);
-    --accent-color-transparent: rgba(255, 141, 203, 0.4);
+    --accent-color-transparent: rgba(50, 49, 45, 0.4);
     --overlay-color: rgba(255, 241, 247, 0.4);
-    --section-title-color: rgba(53, 52, 48, 0.4);
+    --section-title-color: #353430;
     --rec-display: none;
   }
 }

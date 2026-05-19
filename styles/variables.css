@@ -15,7 +15,7 @@
   --content-padding: 10px;
   --section-gap: 30px;
   --accent-color-transparent: rgba(255, 0, 112, 0.4);
-  --section-title-color:rgba(255, 0, 112, 0.4);
+  --section-title-color:#ff0070;;
 ;
   --rec-display: flex;
 }
