@@ -14,7 +14,7 @@
   --bg-image: url('../images/background-dark.jpg');
   --content-padding: 10px;
   --section-gap: 30px;
-  --accent-color-transparent: rgba(255, 0, 112, 0.4);
+  --accent-color-transparent: #ff0070;
   --section-title-color: #ff0070;
   --rec-display: flex;
 }

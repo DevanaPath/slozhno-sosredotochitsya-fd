@@ -14,7 +14,7 @@
   --card-bg: #2a2a2a;
   --title-decor-text: #000;
   --link-shadow: 2px 2px 0 var(--accent-color);
-  --accent-color-transparent: rgba(255, 0, 112, 0.4);
+  --accent-color-transparent: #ff0070;
   --section-title-color: #ff0070;
   --rec-display: flex;
   /* сохраните этот селектор в приведённом виде.
