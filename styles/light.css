@@ -19,7 +19,8 @@
   --link-shadow: 2px 2px 0 var(--accent-color);
   --accent-color-transparent: rgba(255, 141, 203, 0.4);
   --overlay-color: rgba(255, 241, 247, 0.4);
-  --section-title-color: #353430;
+  --section-title-color: rgba(53, 52, 48, 0.4);
+;
   --rec-display: none;
 }
 
@@ -35,7 +36,7 @@
     --link-shadow: 2px 2px 0 var(--accent-color);
     --accent-color-transparent: rgba(255, 141, 203, 0.4);
     --overlay-color: rgba(255, 241, 247, 0.4);
-    --section-title-color: #353430;
+    --section-title-color: rgba(53, 52, 48, 0.4);
     --rec-display: none;
   }
 }
